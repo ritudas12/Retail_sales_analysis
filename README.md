@@ -7,10 +7,10 @@
 This project is based on analyzing retail sales data using SQL. In this project, I created a database, cleaned the data, and performed different queries to find useful business insights like total sales, customer behavior, and sales trends.
 
 **What I Did in This Project**
-Created a retail_sales table to store sales data
-Checked and removed null values to clean the dataset
-Explored the data using basic SQL queries
-Solved multiple business-related questions using SQL
+- Created a retail_sales table to store sales data
+- Checked and removed null values to clean the dataset
+- Explored the data using basic SQL queries
+- Solved multiple business-related questions using SQL
 
 ## Project Structure
 
@@ -191,25 +191,25 @@ GROUP BY shift
 
 ## Findings
 
-Found total number of sales and customers
-Identified different product categories
-Analyzed sales on specific dates
-Filtered data based on category and quantity
-Calculated total sales for each category
-Found average age of customers
-Identified high-value transactions (sales > 1000)
-Compared transactions based on gender and category
-Found best selling month in each year
-Identified top 5 customers based on total sales
-Counted unique customers per category
-Analyzed sales based on time of day (Morning, Afternoon, Evening)
+- Found total number of sales and customers
+- Identified different product categories
+- Analyzed sales on specific dates
+- Filtered data based on category and quantity
+- Calculated total sales for each category
+- Found average age of customers
+- Identified high-value transactions (sales > 1000)
+- Compared transactions based on gender and category
+- Found best selling month in each year
+- Identified top 5 customers based on total sales
+- Counted unique customers per category
+- Analyzed sales based on time of day (Morning, Afternoon, Evening)
 
 ## Skills Used
-SQL (Joins, Aggregations, Group By)
-Data Cleaning
-Data Analysis
-Window Functions (RANK)
-Date & Time Functions
+- SQL (Joins, Aggregations, Group By)
+- Data Cleaning
+- Data Analysis
+- Window Functions (RANK)
+- Date & Time Functions
 
 ## Reports
 
